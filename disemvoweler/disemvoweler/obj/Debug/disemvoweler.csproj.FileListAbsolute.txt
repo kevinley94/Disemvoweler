@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\Disemvoweler\disemvoweler\disemvoweler\bin\Debug\disemvoweler.exe.config
+C:\Users\Technologist\Documents\GitHub\Disemvoweler\disemvoweler\disemvoweler\bin\Debug\disemvoweler.exe
+C:\Users\Technologist\Documents\GitHub\Disemvoweler\disemvoweler\disemvoweler\bin\Debug\disemvoweler.pdb
+C:\Users\Technologist\Documents\GitHub\Disemvoweler\disemvoweler\disemvoweler\obj\Debug\disemvoweler.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Disemvoweler\disemvoweler\disemvoweler\obj\Debug\disemvoweler.exe
+C:\Users\Technologist\Documents\GitHub\Disemvoweler\disemvoweler\disemvoweler\obj\Debug\disemvoweler.pdb
